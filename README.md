@@ -1,2 +1,3 @@
-# TER-Stochastic-modeling-and-barrier-options-pricing
-test
+# TER - Stochastic modeling and barrier options pricing
+
+Bla
