@@ -14,4 +14,5 @@ Dans ce rapport, nous étudions les différentes méthodes de pricing pour les o
 
 
 **Key-words**
+
   Finance , pricing , options , Monte-Carlo method , stochastic modeling , barrier option , underlying asset , Heston model , Bates model , variance reduction , antithetical variables , calibration , S&P500 , Euler-Maruyama discretisation, binomial tree method
